@@ -1,0 +1,54 @@
+.articolo1 {
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: auto;
+}
+
+#image {
+    width: 100%;
+}
+
+#main-content {
+    width: auto;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+#paragrafo1 {
+    padding-left: 10px;
+}
+
+#lista {
+    border-top: 2px solid lightgray;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#item1 {
+    border-bottom: 2px solid lightgray;    
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#item2 {
+    border-bottom: 2px solid lightgray;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#item3 {
+    border-bottom: 2px solid lightgray;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#links {
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
